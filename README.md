@@ -27,14 +27,14 @@ git config --global core.editor "'<path to VS code>\code.exe' -n -w"
 - เปิด terminal cd เข้า path workspace นั้น แล้ว cd เข้า folder project
   *** ชื่อ folder project (ที่ข้างในมี files ที่จะเอาขึ้น github) ชื่อ folder ต้องตรงกับชื่อ repository ที่ใช้ส่งงาน เช่น test-submission-incluDna | folder เราก็ต้องชื่อ test-submission-incluDna `ไม่งั้นก็ ✨clone repoอันนั้น เปล่าๆมาเลย ลงในเครื่องเรา แล้วเอาโค้ดไปใส่ใน folder นั้น` *** `git clone https://github.com/.... .git` repoที่ส่งงาน
   
- - ค่อยเริ่มตัว git 
-  ```bash
-  git init
-  ```
+- ค่อยเริ่มตัว git 
+```bash
+git init
+```
 - ✨git clone (clone งานนอกมาเข้าเครื่องเรา *กรณีโค้ดเค้าให้มา อยู่ใน github)
-  ```bash
-  git clone https://github.com/.... .git
-  ```
+```bash
+git clone https://github.com/.... .git
+```
 - Import เข้า Eclipse
 - cd เข้า folder ที่เอาเข้ามาแล้ว `git status` เช็คได้
 ### .gitignore
