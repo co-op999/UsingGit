@@ -19,6 +19,7 @@ git push
 ```
 ถ้างานมันไม่ขึ้นใน import project from git ใน Eclipse ให้เข้าไป import project from git -> เลือก local -> กด add เอา folder ที่ใช้ขึ้น github มา
 
+---
 ### Set git
 - Open `Git Bash` or terminal
 - cd เข้า folder ก่อน **For `git bash`ต้อง cd เข้าที่ละขั้น (copy ทั้ง path ทีเดียวเลยไม่ได้)
