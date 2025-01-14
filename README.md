@@ -6,7 +6,7 @@
 - fullname (ไม่ใช่ username นะ) & email ต้องเป็นอันที่ใช้สมัคร Github acc
 
 ```bash
-git congig --global user.name "<your full name>"
+git config --global user.name "<your full name>"
 git config --global user.email "<your email>"
 git config --global color.ui auto
 git config --global merge.conflictstyle diff3
