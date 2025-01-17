@@ -3,8 +3,10 @@
 
 ### วิธีลัด
 ```bash
+#cd เข้า folder ที่จะเอา folder github มาวาง
 #clone folderเปล่า จากrepoที่จะใช้ส่งงาน (http... .git)
 git clone https://github.com/.... .git
+#cd เข้า folder github ที่ได้มา
 #เอาไฟล์ที่จะเอาขึ้น ใส่ไปใน folder นั้น ใส่ไฟล์ .gitignore ด้วย
 git init
 git add .gitignore
