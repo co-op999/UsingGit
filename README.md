@@ -38,7 +38,7 @@ git config --list
 
 ##
 #### VS code for commit massage
-ไม่ซีเรียส เพราะใช้ git commit -m "your commit massage" ได้
+ไม่ซีเรียส เพราะใช้ git commit -m "your commit message" ได้
 
 ```bash
 git config --global core.editor "'<path to VS code>\code.exe' -n -w"
